@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sena Kılınç
+- 👀 I’m interested in machine learning, artificial intelligence and data analysis
+- 🌱 I’m currently learning python java and c++ but I also try to learn javascript
