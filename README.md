@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Sena Kılınç
-- 👀 I’m interested in machine learning, artificial intelligence and data analysis
+Hi I'm Sena and im interested in data analysis and web development.
