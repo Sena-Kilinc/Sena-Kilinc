@@ -1,1 +1,1 @@
-Hi I'm Sena and im interested in data analysis and web development.
+Hi I'm Sena and im interested in big data and games
