@@ -1,1 +1,1 @@
-Hi I'm Sena and im interested in big data and games
+Hi I'm Sena and I'm committed to learning big data engineering and back-end development.
