@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Hardworking Computer Engineering student who is also TA and wants to dive into Deep Learning, Data Analysis and Software Development!!</h3>
+<h3 align="center">Hardworking Computer Engineering student who is also TA and wants to dive into Deep Learning, Data Science and Software Development!!</h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" width="800" height="400">
 </p>
@@ -10,10 +10,9 @@
 - 🏃 I'm trying to be a T-Shaped engineer who learns fast and can adapt to change.
 - 🌱 I’m currently improving myself on Java, Python,SQL, NoSQL,Tableu,Excel,C#
 - 👯 I’m looking forward for new experiences.
-- 🥅 2022 Goals: Learn more about Software Development and create at least 2 big projects.
+- 🥅 2023 Goals: Learn more about Data Science and Software Development and create at least 2 big projects.
 - ⚡ Fun fact: I love to watch horror movies, doing yoga and running.
 - 📫 How to reach me: **s.kilinc.ce@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Iht-T-RxRqBXfq_WWSt3pDBGvSHPP0rG/view?usp=sharing)
 
 ### Connect with me:
 
