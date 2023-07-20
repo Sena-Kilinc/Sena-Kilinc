@@ -2,15 +2,14 @@
 
 ---
 
-<h3 align="center">Hardworking Computer Engineering student who is into Deep Learning, Data Science and Software Development!!</h3>
+<h3 align="center">Ambitious and dedicated Computer Engineering student with a passion for cutting-edge technologies, particularly in the realms of Deep Learning and Data Science.</h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" width="800" height="400">
 </p>
 
 - 🏃 I'm trying to be a T-Shaped engineer who learns fast and can adapt to change.
-- 🌱 I’m currently improving myself on Java, Python,SQL, NoSQL,Tableu,Excel,C#
-- 👯 I’m looking forward for new experiences.
-- 🥅 2023 Goals: Learn more about Data Science and Software Development and create at least 2 big projects.
+- 🌱 I am diligently working to improve my expertise in deep learning, specifically focusing on mastering object detection models like YOLO, SSD, Faster R-CNN, Mask R-CNN, and RetinaNet, while also exploring the vast potential of Language Models (LLMs) such as GPT-3, BERT, XLNet, RoBERTa, and T5 to advance my skills in natural language processing and artificial intelligence.
+- 🥅 2023 Goals: Learn more about Data Science and Software Development and create at least 2 big projects.(DONE!)
 - ⚡ Fun fact: I love to watch horror movies, doing yoga and running.
 - 📫 How to reach me: **s.kilinc.ce@gmail.com**
 
