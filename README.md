@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Ambitious and dedicated Computer Engineering student with a passion for cutting-edge technologies, particularly in the realms of Deep Learning and Data Science.</h3>
+<h3 align="center">Ambitious and dedicated Computer Engineering student with a passion for cutting-edge technologies, particularly in the realms of Deep Learning and Machine Science.</h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" width="800" height="400">
 </p>
