@@ -9,7 +9,7 @@
 
 - 🏃 I'm trying to be a T-Shaped engineer who learns fast and can adapt to change.
 - 🌱 I am diligently working to improve my expertise in deep learning.
-- 🥅 2023 Goals: Learn more about Data Science and Software Development and create at least 2 big projects.(DONE!)
+- 🥅 2024 Goals: Make 1 public paper.
 - ⚡ Fun fact: I love to watch horror movies, doing yoga and running.
 - 📫 How to reach me: **s.kilinc.ce@gmail.com**
 
