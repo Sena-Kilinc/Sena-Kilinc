@@ -3,7 +3,7 @@
 <h3 align="center">Machine Learning Engineer & NLP Researcher passionate about LLMs, recommender systems, and production-scale AI.</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" width="600" height="300">
+  <img src="https://media.giphy.com/media/ZS57kdXudVqsDX0TLH/giphy.gif" width="480" height="300">
 </p>
 
 ---
