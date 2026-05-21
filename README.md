@@ -1,4 +1,4 @@
-# Hi, I'm Sena Kilinç 👋
+# Hi, I'm Sena Kılınç 👋
 
 <h3 align="center">Machine Learning Engineer & NLP Researcher passionate about LLMs, recommender systems, and production-scale AI.</h3>
 
